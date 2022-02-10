@@ -1,0 +1,21 @@
+.headers {
+  background-color: grey;
+  color: white;
+}
+img {
+  width: 400px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.borders {
+  border: 2px solid black;
+  margin-top: 10px;
+}
+.classic {
+  margin: 20px;
+  border: 2px solid black;
+  padding: 10px;
+}
+.butt {
+  margin: 2px;
+}
